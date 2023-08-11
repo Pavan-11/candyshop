@@ -1,0 +1,29 @@
+.btn{
+    /* display: flex; */
+    position: relative;
+    left: 80rem;
+    background-color: beige;
+    color: black;
+    border: none;
+    cursor: pointer;
+    /* align-items: center;
+    justify-content: center; */
+    font-size: inherit;
+    border-radius: 25px;
+    font-weight: bold;
+    padding: 0.75rem 3rem;
+}
+
+.btn:hover,
+.btn:active {
+    background-color: white;
+}
+
+
+.badge{
+    padding: 0.25rem 1rem;
+    border-radius: 25px;
+    margin-left: 1rem;
+    font-weight: bold;
+    background-color: beige;
+}
